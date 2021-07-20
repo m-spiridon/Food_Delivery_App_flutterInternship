@@ -1,0 +1,11 @@
+export 'package:internship_project_1/authentication/blocs/authentication_bloc/authentication_bloc.dart';
+export 'package:internship_project_1/authentication/blocs/authentication_bloc/authentication_event.dart';
+export 'package:internship_project_1/authentication/blocs/authentication_bloc/authentication_state.dart';
+export 'package:internship_project_1/authentication/blocs/register_bloc/register_bloc.dart';
+export 'package:internship_project_1/authentication/blocs/register_bloc/register_event.dart';
+export 'package:internship_project_1/authentication/blocs/register_bloc/register_state.dart';
+export 'package:internship_project_1/authentication/blocs/login_bloc/login_bloc.dart';
+export 'package:internship_project_1/authentication/blocs/login_bloc/login_event.dart';
+export 'package:internship_project_1/authentication/blocs/login_bloc/login_state.dart';
+export 'package:internship_project_1/authentication/user_repository.dart';
+export 'package:internship_project_1/authentication/blocs/simple_bloc_observer.dart';
