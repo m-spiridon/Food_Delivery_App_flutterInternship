@@ -1,5 +1,18 @@
 # Internship Project 1
 
+#### Stack: Flutter and Firebase
+#### Implemented: 
+- Authentication
+- Localisation
+- BLoC pattern
+- Geolocation
+- Google Maps
+- Local storage
+
+#### And here is how the app looks:
+Part 1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Part 2  
+![gif1](./lib/gif_pt1.gif)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![gif2](./lib/gif_pt2.gif)
+
 ### Notes for iOS build
 
 After adding Firebase to the project it might not be able to build for iOS and throw multiple errors. Study each error thoroughly and try to fix it. Below you can find possible errors and how to handle them, but first:
